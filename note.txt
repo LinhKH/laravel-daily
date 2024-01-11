@@ -1,0 +1,38 @@
+posts_photos
+---
+- id
+- filename
+- post_id
+- timestamps
+
+products_photos
+---
+- id
+- filename
+- product_id
+- timestamps
+
+users_photos
+---
+- id
+- filename
+- user_id
+- timestamps
+
+photos
+---
+- id
+- filename
+- post_id
+- product_id
+- user_id
+- timestamps
+
+photos
+---
+- id
+- filename
+- imageable_id
+- imageable_type
+- user_id
+- timestamps
