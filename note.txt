@@ -1,0 +1,20 @@
+posts
+---
+- id
+- title
+
+products
+---
+- id
+- name
+
+photos
+---
+- id
+- filename
+
+imageables
+---
+- photo_id
+- imageable_id
+- imageable_type
