@@ -1,11 +1,5 @@
 <template>
-    
-    <Layout>
-        About
-    </Layout>
+    About
 </template>
 
-<script setup>
-import Layout from '../Components/Layout.vue';
-
-</script>
+<script setup></script>
